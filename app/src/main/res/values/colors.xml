@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="loading_bg_color">#55000000</color>
+    <color name="customer_separator_color">#d5d5d5</color>
+
+    <color name="dialog_bg_color">#efeff4</color>
+
+    <color name="siz_orange1">#F7C031</color>
+    <color name="siz_orange2">#F1B20C</color>
+    <color name="siz_black">#332926</color>
+    <color name="siz_red">#860B36</color>
+    <color name="siz_red_alpha">#99860B36</color>
+    <color name="siz_pink">#c62c72</color>
+    <color name="siz_gray">#d5d9d9</color>
+    <color name="siz_gray_alpha">#CCd5d9d9</color>
+    <color name="siz_brown1">#4c2924</color>
+    <color name="siz_brown2">#231c19</color>
+
 </resources>

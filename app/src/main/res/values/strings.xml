@@ -1,3 +1,38 @@
 <resources>
-    <string name="app_name">CinemaSerials</string>
+    <string name="app_name">Cinema Serials</string>
+
+    <string name="title_activity_home">CinemaSerials</string>
+    <string name="title_home">Новости</string>
+    <string name="title_dashboard">Избранное</string>
+    <string name="title_notifications">Поиск</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_filter">Filter</string>
+    <string name="title_search_hint_filter">Enter name serial</string>
+
+    <string name="filter_kinopoisk_str">kinopoisk</string>
+    <string name="filter_imdb_str">imdb</string>
+    <string name="filter_popular_str">popular</string>
+    <string name="filter_sort_order_initial_param">popular</string>
+    <string name="filter_year_str">year</string>
+    <string name="filter_desc_str">DESC</string>
+    <string name="filter_asc_str">ASC</string>
+
+    <string name="error_get_api">Something wrong, please check your API key.</string>
+    <string name="domestic_str">domestic</string>
+    <string name="foreign_src">foreign</string>
+
+    <string name="save_locale_btn">save locale</string>
+    <string name="save_country_btn">save country</string>
+    <string name="save_genre_btn">save genre</string>
+
+    <string name="sort_imdb">Сортировать по оценкам imdb</string>
+    <string name="sort_kinopoisk">Сортировать по оценкам кинопоиска</string>
+    <string name="sort_popular">Сортировать по популярным сериалам</string>
+    <string name="sort_year">Сортировать по году</string>
+    <string name="sort_desc">Сортировать по убыванию</string>
+    <string name="show_result_str">Show result (124)</string>
+    <string name="sort_locale">Locale: All (domestic,foreign)</string>
+    <string name="sort_genre">Genre: fantastic</string>
+    <string name="sort_country">Country: USA</string>
+    <string name="enter_name_serial">enter name serial</string>
 </resources>
